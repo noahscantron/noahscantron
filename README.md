@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @noahscantron, I'm a data engineer @ Huckberry 🌲
+- 👋 Hi, I’m @noahscantron, 
 
-- 📫 Reach me @ linkedin.com/in/noahscanlon/
+- 🌲 I'm a data engineer @ Huckberry
